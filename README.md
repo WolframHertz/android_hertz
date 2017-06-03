@@ -1,2 +1,2 @@
-# android_hertz
-Music Player for Android
+# hertz_android
+Hertz Music Player for Android
